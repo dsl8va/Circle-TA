@@ -1,0 +1,183 @@
+{
+    "data": [{
+        "id": "06529507-0bb7-4236-9def-f5c692280d5b",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "MASTERCARD",
+        "bin": "517337",
+        "issuerCountry": "ES",
+        "fundingType": "debit",
+        "fingerprint": "813d362d-0aac-483d-8abf-f133e988cd8b",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:19:29.127Z",
+        "updateDate": "2021-09-28T16:19:29.710Z"
+    }, {
+        "id": "f393284d-5a00-42be-9262-69f17ca7fc80",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "MASTERCARD",
+        "bin": "510242",
+        "issuerCountry": "ES",
+        "fundingType": "credit",
+        "fingerprint": "879bb8e0-d6a1-4327-a274-2bd0573f101d",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:19:24.482Z",
+        "updateDate": "2021-09-28T16:19:24.933Z"
+    }, {
+        "id": "b07c68fa-31cb-4217-b5cc-b62ae25482d2",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "VISA",
+        "bin": "420000",
+        "issuerCountry": "ES",
+        "fundingType": "credit",
+        "fingerprint": "98a2e519-20e3-458c-a8fe-c126033d6997",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:19:19.070Z",
+        "updateDate": "2021-09-28T16:19:19.675Z"
+    }, {
+        "id": "04381520-de65-4827-aecd-f04a88c68981",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "VISA",
+        "bin": "400740",
+        "issuerCountry": "ES",
+        "fundingType": "debit",
+        "fingerprint": "603b2185-1901-4eae-9b98-cc20c32d0709",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:19:11.466Z",
+        "updateDate": "2021-09-28T16:19:12.060Z"
+    }, {
+        "id": "50424d4a-addc-4db4-8474-25f3a62a888e",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "MASTERCARD",
+        "bin": "555555",
+        "issuerCountry": "GB",
+        "fundingType": "credit",
+        "fingerprint": "39c4456c-5ae7-4352-b453-6358dd6746fe",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:04:50.323Z",
+        "updateDate": "2021-09-28T16:04:50.980Z"
+    }, {
+        "id": "05623e6c-39c9-4b56-80e7-50a7ac472387",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "MASTERCARD",
+        "bin": "510242",
+        "issuerCountry": "ES",
+        "fundingType": "credit",
+        "fingerprint": "879bb8e0-d6a1-4327-a274-2bd0573f101d",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:04:10.999Z",
+        "updateDate": "2021-09-28T16:04:11.586Z"
+    }, {
+        "id": "d525f953-c589-4107-be18-ecc623cd2f79",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "VISA",
+        "bin": "400741",
+        "issuerCountry": "ES",
+        "fundingType": "credit",
+        "fingerprint": "72bcf942-f742-413c-baaf-345abff90019",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T16:03:48.260Z",
+        "updateDate": "2021-09-28T16:03:48.816Z"
+    }, {
+        "id": "5a5ac9ff-d767-45d8-a1b3-5032623048a7",
+        "status": "complete",
+        "billingDetails": {
+            "district": "MA",
+            "country": "US"
+        },
+        "expMonth": 1,
+        "expYear": 2025,
+        "network": "VISA",
+        "bin": "400740",
+        "issuerCountry": "ES",
+        "fundingType": "debit",
+        "fingerprint": "603b2185-1901-4eae-9b98-cc20c32d0709",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T15:50:12.786Z",
+        "updateDate": "2021-09-28T15:50:13.667Z"
+    }, {
+        "id": "3c5e9775-5f53-4a33-9a26-81c7ec022d0b",
+        "status": "complete",
+        "billingDetails": {
+            "district": "VA",
+            "country": "US"
+        },
+        "expMonth": 2,
+        "expYear": 2024,
+        "network": "VISA",
+        "bin": "400740",
+        "issuerCountry": "ES",
+        "fundingType": "debit",
+        "fingerprint": "603b2185-1901-4eae-9b98-cc20c32d0709",
+        "verification": {
+            "cvv": "pass",
+            "avs": "Y"
+        },
+        "createDate": "2021-09-28T15:49:51.379Z",
+        "updateDate": "2021-09-28T15:49:52.603Z"
+    }]
+}
